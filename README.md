@@ -40,3 +40,6 @@ This Python script helps you reorganize your file structure using AI-powered sug
 
 Run the script:
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
